@@ -170,16 +170,6 @@ background-position: center;
     width: 30px;
     transform: translateY(3px);
 }
-.line{
-    min-height:7px;
-    width:105%;
-    background: #238680;
-    margin-top: 700px;
-    margin-left: -38px;
-    transform: translateY(30px);
-    
-
-}
 .more-btn{
     display: inline-block;
     text-decoration: none;
@@ -492,15 +482,6 @@ form input{
     height: 28px;
     border-radius: 25px;
     font-size: 14px;
-}
-.line{
-    min-height:7px;
-    width:113%;
-    background: #238680;
-    margin-top: 653px;
-    margin-left: -38px;
-    transform: translateY(45px);
-    
 }
 #header-1{
     width: 100%;
