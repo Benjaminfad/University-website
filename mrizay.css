@@ -94,7 +94,7 @@ nav ul li:hover::after{
      font-size: 17px;
      color: #d9dda6;
      font-weight:100;
-     font-family:sans-serif;
+    
 }
 form input{
     width: 23%;
